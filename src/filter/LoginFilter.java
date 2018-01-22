@@ -11,7 +11,7 @@ import java.io.IOException;
 
 /**
  * 登陆权限拦截使用的Filter，必须登陆才能进入到内部界面
- * @author 朱悦星
+ * @author zhuyst
  */
 public class LoginFilter implements Filter{
 

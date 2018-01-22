@@ -3,7 +3,7 @@ package enums;
 /**
  * 增删改查的枚举类
  * 配合 {@link servlet.BaseCrudServlet} 使用
- * @author 朱悦星
+ * @author zhuyst
  */
 public enum CrudTypeEnum {
 

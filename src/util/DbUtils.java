@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 /**
  * 数据库连接的工具类
- * @author 朱悦星
+ * @author zhuyst
  */
 public class DbUtils {
 

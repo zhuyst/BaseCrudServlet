@@ -6,7 +6,7 @@ import java.io.Serializable;
  * 所有实体类都应继承的抽象类
  * 包含了所有表共有的属性
  * 方便{@link dao.BaseDao } 对数据库进行操作
- * @author 朱悦星
+ * @author zhuyst
  */
 public abstract class BaseEntity implements Serializable{
 

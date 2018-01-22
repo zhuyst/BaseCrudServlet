@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 学生实体的服务类
- * @author 朱悦星
+ * @author zhuyst
  */
 public class StudentService extends BaseCrudService<StudentDao, Student> {
 

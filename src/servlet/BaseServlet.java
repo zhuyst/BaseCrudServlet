@@ -4,7 +4,7 @@ import javax.servlet.http.HttpServlet;
 
 /**
  * 所有Servlet都应继承的基础抽象类
- * @author 朱悦星
+ * @author zhuyst
  */
 public abstract class BaseServlet extends HttpServlet{
 

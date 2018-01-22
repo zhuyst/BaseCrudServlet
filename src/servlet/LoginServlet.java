@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  * 登陆的Servlet
- * @author 朱悦星
+ * @author zhuyst
  */
 public class LoginServlet extends BaseServlet{
 

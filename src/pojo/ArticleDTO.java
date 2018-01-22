@@ -2,7 +2,7 @@ package pojo;
 
 /**
  * 对 {@link Article} 进行包装的DTO
- * @author 朱悦星
+ * @author zhuyst
  */
 public class ArticleDTO extends Article {
 

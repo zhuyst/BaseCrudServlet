@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 基础的抽象数据库操作类
  * 封装了基础的CRUD方法
- * @author 朱悦星
+ * @author zhuyst
  * @param <T> 要操作的实体类
  *           实体类需要继承 {@link BaseEntity}
  *           方便使用主键进行操作

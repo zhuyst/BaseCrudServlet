@@ -10,7 +10,7 @@ import java.util.List;
  * 通过 {@link #dao} 来进行数据库操作
  * @param <D> 操作对应实体的DAO
  * @param <E> 要服务的实体类
- * @author 朱悦星
+ * @author zhuyst
  */
 public abstract class BaseCrudService<D extends BaseDao<E>,E extends BaseEntity> {
 

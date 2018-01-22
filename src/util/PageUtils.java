@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 分页工具类
- * @author 朱悦星
+ * @author zhuyst
  */
 public class PageUtils {
 

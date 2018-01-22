@@ -6,7 +6,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  * 对项目中的 {@link HttpSession} 进行操作的工具类
- * @author 朱悦星
+ * @author zhuyst
  */
 public class SessionUtils {
 

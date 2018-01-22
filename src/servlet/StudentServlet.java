@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * 学生相关的Servlet
- * @author 朱悦星
+ * @author zhuyst
  */
 public class StudentServlet extends BaseCrudServlet<StudentService,Student> {
 

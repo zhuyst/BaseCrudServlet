@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 论文实体的服务类
  * 提供对论文的增删改查
- * @author 朱悦星
+ * @author zhuyst
  */
 public class ArticleService extends BaseCrudService<ArticleDao, Article> {
 

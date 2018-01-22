@@ -18,7 +18,7 @@ import java.util.List;
  * 通过 {@link CrudTypeEnum} 判断操作类型
  * @param <T> 操作实体的服务类
  * @param <E> 要操作的实体
- * @author 朱悦星
+ * @author zhuyst
  */
 public abstract class BaseCrudServlet
         <T extends BaseCrudService<?,E>,

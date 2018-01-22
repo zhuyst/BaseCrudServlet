@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  * 主页的Servlet
- * @author 朱悦星
+ * @author zhuyst
  */
 public class IndexSerlvet extends BaseServlet{
 

@@ -2,7 +2,7 @@ package pojo;
 
 /**
  * 学生实体类
- * @author 朱悦星
+ * @author zhuyst
  */
 public class Student extends BaseEntity{
 

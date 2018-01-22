@@ -13,7 +13,7 @@ import java.io.OutputStream;
 
 /**
  * 显示图片的Servlet，主要用于论文封面 {@link Article#picture} 的展示
- * @author 朱悦星
+ * @author zhuyst
  */
 public class ShowImageServlet extends BaseServlet{
 

@@ -5,7 +5,7 @@ import java.io.IOException;
 
 /**
  * 转换编码使用的Filter
- * @author 朱悦星
+ * @author zhuyst
  */
 public class CharacterEncodingFilter implements Filter{
 

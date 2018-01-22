@@ -6,7 +6,7 @@ import java.util.List;
  * 包装了分页所需要得信息的泛型类
  * 应配合分页工具使用 {@link util.PageUtils}
  * @param <T> 列表中的对象类型
- * @author 朱悦星
+ * @author zhuyst
  */
 public class Page<T> {
 

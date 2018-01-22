@@ -11,7 +11,7 @@ import java.io.IOException;
 
 /**
  * 分页页码标签
- * @author 朱悦星
+ * @author zhuyst
  */
 public class PageTag extends TagSupport {
 

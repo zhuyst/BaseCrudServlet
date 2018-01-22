@@ -2,7 +2,7 @@ package util;
 
 /**
  * 字符串操作工具类
- * @author 朱悦星
+ * @author zhuyst
  */
 public class StringUtils {
 

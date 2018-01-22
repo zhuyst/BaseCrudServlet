@@ -2,7 +2,7 @@ package pojo;
 
 /**
  * 论文实体类
- * @author 朱悦星
+ * @author zhuyst
  */
 public class Article extends BaseEntity{
 

@@ -23,7 +23,7 @@ import java.util.List;
 
 /**
  * 论文相关的Servlet
- * @author 朱悦星
+ * @author zhuyst
  */
 @MultipartConfig
 public class ArticleServlet extends BaseCrudServlet<ArticleService, Article> {

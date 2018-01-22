@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * 论文表的数据库操作类
- * @author 朱悦星
+ * @author zhuyst
  */
 public class ArticleDao extends BaseDao<Article>{
 
