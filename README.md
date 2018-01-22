@@ -31,7 +31,8 @@ public abstract class BaseEntity implements Serializable{
 ## BaseDao
 * 基础的抽象数据库操作类
 * 封装了基础的CRUD方法
-* `<T>` 要操作的实体类，实体类需要继承 `BaseEntity` ，方便使用主键进行操作
+* `<T>` 要操作的实体类
+* 实体类需要继承 `BaseEntity` ，方便使用主键进行操作
 ```java
 public abstract class BaseDao<T extends BaseEntity> {
     
@@ -51,10 +52,10 @@ public abstract class BaseCrudService<D extends BaseDao<E>,E extends BaseEntity>
 
 ## BaseCrudServlet
 * 基础的增删改查的Servlet
-* 通过 {@link #service} 来进行操作
-* 通过 {@link CrudTypeEnum} 判断操作类型
-* @param <T> 操作实体的服务类
-* @param <E> 要操作的实体
+* 通过 `service` 来进行操作
+* 通过 `CrudTypeEnum` 判断操作类型
+* `<T>` 操作实体的服务类
+* `<E>` 要操作的实体
 ```java
 public abstract class BaseCrudServlet
         <T extends BaseCrudService<?,E>,
